@@ -10,8 +10,9 @@ body {
   
   .calculator {
     width: 300px;
-    border: 10px solid #ccc;
+    border: 10px solid gray;
     border-radius: 30px;
+    background-color: grey;
     padding: 20px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   }
@@ -62,7 +63,7 @@ body {
   }
   
   .equal-button {
-    background-color: darkblue;
+    background-color: darkgoldenrod;
     color: white;
   }
   .equal-button:hover {
